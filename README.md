@@ -8,3 +8,5 @@ MobileNetV2
 Transfer learning:
 ConvNeXt-tiny
 MNASNet-0.5
+
+Dataset used: [Animals-10 Dataset on Kaggle](https://www.kaggle.com/datasets/alessiocorrado99/animals10)
